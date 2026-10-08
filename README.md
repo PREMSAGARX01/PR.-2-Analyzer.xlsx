@@ -1,6 +1,6 @@
 # PR. 2 Analyzer
 
-An Excel workbook (`PR. 2 Analyzer.xlsx`) that completes the 10 tasks listed in the **Project Instructions** sheet, using a 200-row sales dataset (Apr 2024 – Apr 2025). All analysis is built with live formulas, so it recalculates if the Dataset changes. Currency is shown in Indian rupees (₹).
+An Excel workbook (`PR. 2 Analyzer.xlsx`) that completes the 10 tasks listed in the **Project Instructions** sheet, using a 200-row sales dataset (Apr 2024 – Apr 2025). All analysis is built with live formulas, so it recalculates if the Dataset changes.
 
 ## Dataset
 
